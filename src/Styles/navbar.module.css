@@ -1,0 +1,17 @@
+.box{
+    border: 2px solid;
+    display: flex;
+    gap: 50px;
+    width: 90%;
+    margin: auto;
+    height: 30px;
+
+    justify-content: right;
+    background-color: black;
+    padding: 40px;
+}
+.link{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
